@@ -1,38 +1,38 @@
 var questions = [
     {
-        title: "Whose death sparked World War I?",
-        choices: ["Kaiser Wilhelm", "Archbishop Ussher", "Queen Victoria", "Archduke Franz Ferdinand"],
-        answer: "Archduke Franz Ferdinand"
+        title: "Commonly used data types DO NOT include",
+        choices: ["Strings", "Booleans", "Numbers", "Alerts"],
+        answer: "Alerts"
     },
 
     {
-        title: "Which of these nations was neutral in World War I?",
-        choices: ["Germany", "Norway", "Italy", "England"],
-        answer: "Norway"
+        title: "The condition in an if / else statement is enclosed within __.?",
+        choices: ["Quotes", "Parentheses", "Curly Brackets", "Square Brackets"],
+        answer: "Parentheses"
     },
 
     {
-        title: "Which of these ships was sunk by a German submarine?",
-        choices: ["Arizona", "Lusitania", "Titanic", "Andrea Doria"],
-        answer: "Lusitania"
+        title: "Inside which HTML element do we put the JavaScript?",
+        choices: ["scripting", "script", "javascript", "js"],
+        answer: "script"
     },
 
     {
-        title: "World War I ended in:",
-        choices: ["1925", "1918", "1920", "1915"],
-        answer: "1918"
+        title: "Which event occurs when the user clicks on an HTML element?",
+        choices: ["onmouseclick", "onclick", "onchange", "onmouseover"],
+        answer: "onclick"
     },
 
     {
-        title: "Which of these people was a spy in World War I?",
-        choices: ["James Bond", "Mata Hari", "Benedict Arnold", "Serge Plekhanov"],
-        answer: "Mata Hari"
+        title: "Which operator is used to assign a value to a variable?",
+        choices: ["*", "=", "+", "/"],
+        answer: "="
     },
 
     {
-        title: "Who was the first U.S. president to appear on television?",
-        choices: ["Richard Nixon", "Ronald Reagan", "Abraham Lincoln", "Franklin Delano Roosevelt"],
-        answer: "Franklin Delano Roosevelt"
+        title: "Which of the following is correct about features of JavaScript",
+        choices: ["JavaScript is is complementary to and integrated with HTML", "JavaScript is open and cross-platform", "A and B", "Neither"],
+        answer: "A and B"
     },
 
 
